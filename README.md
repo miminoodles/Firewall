@@ -335,3 +335,15 @@ You can:
 -	Control what VPN users access
 
 
+# Conclusion
+
+This project successfully demonstrates the deployment and configuration of a FortiGate firewall in a virtual lab environment. The firewall was configured to provide WAN connectivity, LAN segmentation, and secure outbound internet access using NAT and firewall policies.
+
+The lab reinforces practical skills in:
+- Firewall interface configuration
+- NAT implementation
+- Security policy creation
+- Traffic monitoring and troubleshooting
+- Enterprise network simulation
+
+This hands-on implementation strengthens my practical understanding of network security architecture and firewall management in real-world environments.
